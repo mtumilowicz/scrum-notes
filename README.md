@@ -1,0 +1,1 @@
+# scrum-guide-summary
