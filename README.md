@@ -262,18 +262,14 @@ are helpful and which aren’t
         * in useable condition
             * regardless of whether the Product Owner decides to release it
         * meet the definition of "Done"
+    * Increment is useable, so a Product Owner may choose to immediately release it
 
 ### Artifact Transparency
 * Scrum relies on transparency
 * Scrum Master’s job is to work with the Scrum Team and the organization to increase the
   transparency of the artifacts
-* Definition of “Done”
-    * everyone must understand what “Done” means
-    * Development Teams deliver an Increment of product functionality every Sprint
-        * Increment is useable, so a Product Owner may choose to immediately release it
-    * Development Team must define a definition of “Done”
+* Definition of "Done"
+    * Development Team must define a definition of "Done"
         * if not a convention of the development organization
-    * As Scrum Teams mature, it is expected that their definitions of “Done” will expand to include
-      more stringent criteria for higher quality
-    * Any one product or system should have a definition of
-      “Done” that is a standard for any work done on it
+    * everyone must understand what "Done" means
+    * definitions of “Done” will expand to include more stringent criteria for higher quality
