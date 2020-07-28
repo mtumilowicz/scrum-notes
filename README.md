@@ -219,33 +219,28 @@ are helpful and which aren’t
 
 ## Scrum Artifacts
 * designed to maximize transparency of key information
+
 ### Product Backlog
-* is an ordered list of everything that is known to be needed in the product
-* is the single source of requirements for any changes to be made to the product
-* Product Owner is responsible for the Product Backlog, including its content, availability, and ordering
-* is never complete
-* constantly changes to identify what the product needs to be appropriate, competitive, and useful
-* lists all features, functions, requirements, enhancements, and fixes that constitute the changes to be made 
-to the product in future releases
-* items have the attributes of a description, order, estimate, and value
-    * often include test descriptions that will prove its completeness when “Done.”
 * is used to describe the upcoming work on the product
-* Product Backlog refinement 
-    * is the act of adding detail, estimates, and order to items in the Product Backlog
-    * is an ongoing process in which the Product Owner and the Development Team collaborate on the details 
-    of Product Backlog item
+* ordered list of everything that is known to be needed in the product
+    * lists all features, functions, requirements, enhancements, and fixes
+    * items have the attributes of a description, order, estimate, and value
+        * often include test descriptions that will prove its completeness when "Done"
+    * higher ordered Product Backlog items are usually clearer
+* single source of requirements for any changes to be made to the product
+* Product Owner is responsible for the Product Backlog
+    * including its content, availability, and ordering
+* is never complete
+* constantly changes
+* refinement
     * items are reviewed and revised
+        * act of adding detail, estimates, and order to items
+    * Product Owner and the Development Team collaborate on the details of Product Backlog item
     * Scrum Team decides how and when refinement is done
     * usually consumes no more than 10% of the capacity of the Development Team
     * Product Backlog items can be updated at any time by the Product Owner or at the Product Owner’s discretion
-* Higher ordered Product Backlog items are usually clearer and more detailed than lower ordered ones
-* Product Backlog items that will occupy the Development Team
-  for the upcoming Sprint are refined so that any one item can reasonably be “Done” within the
-  Sprint time-box
-* Product Backlog items that can be “Done” by the Development Team within
-  one Sprint are deemed “Ready” for selection in a Sprint Planning
+* items that can be "Done" within one Sprint are deemed "Ready" for selection in a Sprint Planning
 * Development Team is responsible for all estimates
-    * people who will perform the work make the final estimate
 * Monitoring Progress Toward Goals
     * Product Owner tracks this total work remaining at least every Sprint Review
     * burn-downs, burn-ups, or cumulative flows
