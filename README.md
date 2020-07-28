@@ -1,3 +1,5 @@
+* reference: https://www.scrumguides.org/scrum-guide.html
+
 # scrum-notes
 * authors: Ken Schwaber, Jeff Sutherland
     * two of the 17 initial signatories of the Agile Manifesto
