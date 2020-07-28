@@ -3,6 +3,7 @@
     * two of the 17 initial signatories of the Agile Manifesto
 * purpose of the Scrum Guide
     *  framework for developing, delivering, and sustaining complex products
+    
 ## introduction
 * since the early 1990s
 * is not: process, technique, definitive method
@@ -17,107 +18,84 @@
 * especially effective in iterative and incremental knowledge transfer
 * essence of Scrum is a small team of people
     * small team is highly flexible and adaptive
+* scrum values
+    * commitment, courage, focus, openness and respect
+    * trust: transparency, inspection, and adaptation
+    
 ## Scrum Theory
 * founded on empiricism
 * employs an iterative, incremental approach to optimize predictability and control risk
-* Three pillars
+* three pillars
     * transparency
-        * aspects of the process must be visible to those responsible for the outcome
-        * requires those aspects be defined by a common standard
-            * common language referring to the process must be shared by all participants
-            * common definition of “Done”
+        * aspects of the process 
+            * visible to those responsible for the outcome
+            * defined by a common standard
+                * example - definition of "Done"
     * inspection
-        * users must frequently inspect Scrum artifacts and progress toward a Sprint Goal to detect
-          undesirable variances
-        * inspection should not be so frequent that inspection gets in the way of the work
-        * most beneficial when diligently performed by skilled inspectors
+        * inspect artifacts and progress toward a Sprint Goal 
+        * inspection should not slow down the work
+        * by skilled inspectors
     * adaptation
-        * process or the material being processed must be adjusted
-            * if an inspector determines that one or more aspects of a process deviate outside 
-            acceptable limits
+        * caused by inspection
             * if resulting product will be unacceptable
-        * adjustment must be made as soon as possible to minimize further deviation
-        * four formal events for inspection and adaptation
-            * Sprint Planning
-            * Daily Scrum
-            * Sprint Review
-            * Sprint Retrospective
-* Scrum Values
-    * commitment, courage, focus, openness and respect
-    * transparency, inspection, and adaptation come to life and build trust for everyone
-* The Scrum Team
-    * self-organizing - choose how best to accomplish their work, rather than being directed by 
-    others outside the team
-    * cross-functional - all competencies needed to accomplish the work without depending on others not
-    part of the team
-    * deliver products iteratively and incrementally, maximizing opportunities for feedback
-    * The Product Owner
-        * responsible for maximizing the value of the product resulting from work of the Development Team
-            * How this is done may vary widely across organizations, Scrum Teams, and individuals
-        * is the sole person responsible for managing the Product Backlog
-        * Product Backlog management includes:
-            * clearly expressing Product Backlog items
-            * ordering the items in the Product Backlog to best achieve goals and missions
-            * optimizing the value of the work the Development Team performs
-            * ensuring that the Product Backlog is visible, transparent, and clear to all, and shows what
-            the Scrum Team will work on next
-            * ensuring the Development Team understands items in the Product Backlog to the level needed
-            * Product Owner may do the above work, or have the Development Team do it
-                * Product Owner remains accountable
-        * Product Owner is one person, not a committee
-        * No one can force the Development Team to work from a different set of requirements
-    * The Development Team
-        * “Done” increment is required at the Sprint Review
-        * Only members of the Development Team create the Increment
-        * self-organizing
-            * no one tells the Development Team how to turn Product Backlog into Increments of 
-            potentially releasable functionality
-        * cross-functional
-            * all the skills to create a product Increment
-        * no titles for Development Team members
-            * regardless of the work being performed by the person
-        * no sub-teams in the Development Team
-            * regardless of domains that need to be addressed like testing, architecture, operations, 
-            or business analysis
-        * members may have specialized skills and areas of focus, but accountability belongs to the 
-        Development Team as a whole
-        * Development Team Size
-            * small enough to remain nimble and large enough to complete significant work within a Sprint
-            * 3-9
-                * Product Owner and Scrum Master roles are not included in this count unless
-                 they are also executing the work of the Sprint Backlog
-    * The Scrum Master
-        * responsible for promoting and supporting Scrum as defined in the Scrum Guide
-            * helping everyone understand Scrum theory, practices, rules, and values
-        * servant-leader for the Scrum Team
-        * helps those outside the Scrum Team understand which of their interactions with the Scrum Team 
-        are helpful and which aren’t
-            * helps everyone change these interactions to maximize the value
-        * Scrum Master Service to the Product Owner
-            * ensuring that goals, scope, and product domain are understood by everyone on the Scrum
-              Team as well as possible
-            * finding techniques for effective Product Backlog management
-            * Helping the Scrum Team understand the need for clear and concise Product Backlog items
-            * understanding product planning in an empirical environment
-            * Ensuring the Product Owner knows how to arrange the Product Backlog to maximize value
-            * Understanding and practicing agility
-            * Facilitating Scrum events as requested or needed
-        * Scrum Master Service to the Development Team
-            * Coaching the Development Team in self-organization and cross-functionality
-            * Helping the Development Team to create high-value products
-            * Removing impediments to the Development Team’s progress
-            * Facilitating Scrum events as requested or needed
-            * Coaching the Development Team in organizational environments in which Scrum is not yet
-            fully adopted and understood.
-        * Scrum Master Service to the Organization
-            * Leading and coaching the organization in its Scrum adoption
-            * Planning Scrum implementations within the organization
-            * Helping employees and stakeholders understand and enact Scrum and empirical product
-            development
-            * Causing change that increases the productivity of the Scrum Team
-            * Working with other Scrum Masters to increase the effectiveness of the application of Scrum
-            in the organization
-* Scrum Events
+            * if some aspects deviate outside acceptable limits
+        * must be made as soon as possible
+        * process or the material being processed must be adjusted
+    * events for inspection and adaptation
+        * Planning
+        * Daily
+        * Review
+        * Retrospective
+
+## Scrum Team
+* self-organizing - not directed by others outside the team
+    * chooses how best to accomplish their work
+* cross-functional
+    * has all competencies
+* deliver products iteratively and incrementally, maximizing opportunities for feedback
+### The Product Owner
+* is one person
+* responsible for maximizing the value of the product
+* sole person responsible for managing the Product Backlog
+    * PO may have the Development Team do it, but remains accountable
+    * clearly expressing Product Backlog items
+    * assign priorities to items
+    * optimizing the value of the work the Development Team performs
+    * ensure that PB is visible, transparent, and clear to all
+    * ensuring the Development Team understands items
+### The Development Team
+* only Development Team create the Increment
+* self-organizing
+    * knows how to turn Product Backlog into Increments
+* cross-functional
+    * all the skills to create a product Increment
+* no titles for members
+* no sub-teams
+* size: 3-9 - Product Owner and Scrum Master roles are not included
+    * small enough to remain nimble and large enough to complete significant work within a Sprint
+### The Scrum Master
+* help everyone understand Scrum theory, practices, rules, and values
+* servant-leader for the Scrum Team
+* helps those outside the Scrum Team understand which of their interactions with the Scrum Team 
+are helpful and which aren’t
+    * helps change these interactions to maximize the value
+* service to Product Owner
+    * understand product planning in an empirical environment
+    * facilitate Scrum events as requested or needed
+    * find techniques for effective Product Backlog management
+    * understand and practice agility
+    * ensure that artifacts are understood by everyone on the Scrum Team
+* service to the Development Team
+    * coaching in self-organization and cross-functionality
+    * remove impediments to the Development Team’s progress
+    * facilitates Scrum events
+* service to the Organization
+    * coaching in Scrum adoption
+    * plan Scrum implementations within the organization
+    * helps stakeholders understand and enact Scrum product management
+    * Causing change that increases the productivity of the Scrum Team
+    * cooperate with other Scrum Masters to increase the effectiveness of the application of Scrum
+### Scrum Events
     * Once a Sprint begins, its duration is fixed and cannot be shortened or lengthened
     * each event in Scrum is a formal opportunity to inspect and adapt something
         * events are specifically designed to enable critical transparency and inspection
