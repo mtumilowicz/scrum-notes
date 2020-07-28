@@ -95,143 +95,136 @@ are helpful and which aren’t
     * helps stakeholders understand and enact Scrum product management
     * Causing change that increases the productivity of the Scrum Team
     * cooperate with other Scrum Masters to increase the effectiveness of the application of Scrum
-### Scrum Events
-    * Once a Sprint begins, its duration is fixed and cannot be shortened or lengthened
-    * each event in Scrum is a formal opportunity to inspect and adapt something
-        * events are specifically designed to enable critical transparency and inspection
-    * The Sprint
-        * time-box of one month or less during which a “Done”, useable,
-          and potentially releasable product Increment is created
-        * new Sprint starts immediately after the conclusion of the previous Sprint
-        * consist of
-            * Sprint Planning, 
-            * Daily Scrums, 
-            * the development work, 
-            * the Sprint Review
-            * the Sprint Retrospective
-        * During the Sprint
-            * No changes are made that would endanger the Sprint Goal
-            * Quality goals do not decrease
-            * Scope may be clarified and re-negotiated between the Product Owner and Development
-            Team as more is learned
-        * Sprint may be considered a project with no more than a one-month horizon
-            * Sprints are used to accomplish something
-            * print has a goal of what is to be built and flexible plan that will guide building it
-        * When a Sprint’s horizon is too long the definition of
-          what is being built may change, complexity may rise, and risk may increase
-        * enable predictability by ensuring inspection and adaptation of progress toward a Sprint Goal 
-        at least every calendar month
-        * limit risk to one calendar month of cost
-        * Cancelling a Sprint
-            * sprint can be cancelled before the Sprint time-box is over
-            * Only the Product Owner has the authority to cancel the Sprint
-            * sprint would be cancelled if the Sprint Goal becomes obsolete
-                * might occur if the company changes direction or if market or technology conditions 
-                change
-            * Sprint should be cancelled if it no longer makes sense given the circumstances
-            * due to the short duration of Sprints, cancellation rarely makes sense
-            * When a Sprint is cancelled, any completed and “Done” Product Backlog items are reviewed
-                * part of the work is potentially releasable, the Product Owner typically accepts it
-                * All incomplete Product Backlog Items are re-estimated and put back on the Product Backlog
-        * Sprint Planning
-            * collaborative work of the entire Scrum Team
-            * time-boxed to a maximum of eight hours for a one-month Sprint
-            * Scrum Master ensures that the event takes place and that attendants understand its purpose
-            * answers the following:
-                * What can be delivered in the Increment resulting from the upcoming Sprint?
-                * How will the work needed to deliver the Increment be achieved?
-            * Topic One: What can be done this Sprint?
-                * Development Team works to forecast the functionality that will be developed during the
-                  Sprint
-                * Product Owner discusses the objective that the Sprint should achieve and the
-                  Product Backlog items that, if completed in the Sprint, would achieve the Sprint Goal
-                * input to this meeting: 
-                    * Product Backlog
-                    * latest product Increment
-                    * projected capacity of the Development Team
-                    * past performance of the Development Team
-                * number of items selected from the Product Backlog for the Sprint is solely up to the
-                  Development Team
-                    * Only the Development Team can assess what it can accomplish over the upcoming Sprint
-                * During Sprint Planning the Scrum Team also crafts a Sprint Goal
-                    * Sprint Goal is an objective that will be met within the Sprint through the implementation 
-                    of the Product Backlog
-                        * Sprint Goal provides guidance to the Development Team on why it is building the Increment
-            * Topic Two: How will the chosen work get done?
-                * Sprint Backlog = Product Backlog items selected for this Sprint + the plan for delivering
-                * Work planned for the first days of the Sprint by the Development Team is decomposed by the end 
-                of this meeting, often to units of one day or less
-        * Sprint Goal
-            * is an objective set for the Sprint that can be met through the implementation of Product Backlog
-            * provides guidance to the Development Team on why it is building the Increment
-            * created during the Sprint Planning meeting
-            * selected Product Backlog items deliver one coherent function, which can be the Sprint Goal
-            * can be any other coherence that causes the Development Team to work together rather than on separate 
-            initiatives
-        * Daily Scrum
-            * is a 15-minute time-boxed event for the Development Team
-            * is held every day of the Sprint
-            * at it, the Development Team plans work for the next 24 hours
-            * optimizes team collaboration and performance by inspecting the work since the last Daily Scrum
-            * forecasts upcoming Sprint work
-            * is held at the same time and place each day to reduce complexity
-            * Development Team uses the Daily Scrum to inspect progress toward the Sprint Goal and to inspect how 
-            progress is trending toward completing the work in the Sprint Backlog
-            * optimizes the probability that the Development Team will meet the Sprint Goal
-            * is set by the Development Team and can be conducted in different ways if it focuses on progress 
-            toward the Sprint Goal
-                * What did I do yesterday that helped the Development Team meet the Sprint Goal?
-                * What will I do today to help the Development Team meet the Sprint Goal?
-                * Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?
-            * Development Team or team members often meet immediately after the Daily Scrum for
-              detailed discussions, or to adapt, or replan, the rest of the Sprint’s work
-            * Scrum Master ensures that the Development Team has the meeting
-            * Development Team is responsible for conducting the Daily Scrum
-            * is an internal meeting for the Development Team
-                * If others are present, the Scrum Master ensures that they do not disrupt the meeting
-            * improve communications, eliminate other meetings, identify impediments to
-              development for removal, highlight and promote quick decision-making, and improve the
-              Development Team’s level of knowledge
-            * is a key inspect and adapt meeting
-        * Sprint Review
-            * is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed
-            * the Scrum Team and stakeholders collaborate about what was done in the Sprint
-            * is an informal meeting, not a status meeting, and the presentation of the Increment is intended to 
-            elicit feedback and foster collaboratioN
-            * at most a four-hour meeting for one-month Sprints
-            * includes the following elements:
-                * Attendees include the Scrum Team and key stakeholders invited by the Product Owner
-                * The Product Owner explains what Product Backlog items have been “Done” and what has not been “Done”;
-                * The Development Team discusses what went well during the Sprint, what problems it ran into, and 
-                how those problems were solved;
-                * The Development Team demonstrates the work that it has “Done” and answers questions about the 
-                Increment;
-                * The Product Owner discusses the Product Backlog as it stands
-                    * He or she projects likely target and delivery dates based on progress to date (if needed);
-                * The entire group collaborates on what to do next, so that the Sprint Review provides
-                valuable input to subsequent Sprint Planning;
-                * Review of how the marketplace or potential use of the product might have changed what is
-                the most valuable thing to do next
-                * Review of the timeline, budget, potential capabilities, and marketplace for the next
-                anticipated releases of functionality or capability of the product
-            * result of the Sprint Review is a revised Product Backlog that defines the probable Product
-              Backlog items for the next Sprint
-                * Product Backlog may also be adjusted overall to meet new opportunities
-        * Sprint Retrospective
-            * is an opportunity for the Scrum Team to inspect itself and create a plan
-              for improvements to be enacted during the next Sprint
-            * occurs after the Sprint Review and prior to the next Sprint Planning
-            * at most a three-hour meeting for one-month Sprints
-            * Scrum Master ensures that the event takes place and that attendants understand its purpose
-            * Scrum Master ensures that the meeting is positive and productive
-            * The purpose of the Sprint Retrospective is to:
-                * Inspect how the last Sprint went with regards to people, relationships, process, and tools;
-                * Identify and order the major items that went well and potential improvements; and,
-                * Create a plan for implementing improvements to the way the Scrum Team does its work.
-            * By the end of the Sprint Retrospective, the Scrum Team should have identified improvements
-              that it will implement in the next Sprint
-                * Implementing these improvements in the next Sprint is the adaptation to the inspection of the 
-                Scrum Team itself
+## Scrum Events
+### The Sprint
+* new Sprint starts immediately after the conclusion of the previous Sprint
+* once a Sprint begins, its duration cannot be changed
+* are used to accomplish something
+* time-box: <= month
+    * may be considered a project with no more than a one-month horizon
+    * when too long complexity may rise, and risk may increase
+    * limit risk to one calendar month of cost
+* during it - "Done", useable, product Increment is created
+* consist of
+    * Sprint Planning, 
+    * Daily Scrums, 
+    * the development work, 
+    * the Sprint Review
+    * the Sprint Retrospective
+* no changes are made that would endanger the Sprint Goal
+* quality goals do not decrease
+* scope may be clarified and re-negotiated as more is learned: Product Owner <-> Development Team
+* enable predictability by ensuring inspection and adaptation of progress toward a Sprint Goal 
+* Cancelling a Sprint
+    * sprint can be cancelled before the Sprint time-box is over
+    * Only the Product Owner has the authority to cancel the Sprint
+    * sprint would be cancelled if the Sprint Goal becomes obsolete
+        * might occur if the company changes direction or if market or technology conditions 
+        change
+    * Sprint should be cancelled if it no longer makes sense given the circumstances
+    * due to the short duration of Sprints, cancellation rarely makes sense
+    * When a Sprint is cancelled, any completed and “Done” Product Backlog items are reviewed
+        * part of the work is potentially releasable, the Product Owner typically accepts it
+        * All incomplete Product Backlog Items are re-estimated and put back on the Product Backlog
+* Sprint Planning
+    * collaborative work of the entire Scrum Team
+    * time-boxed to a maximum of eight hours for a one-month Sprint
+    * Scrum Master ensures that the event takes place and that attendants understand its purpose
+    * answers the following:
+        * What can be delivered in the Increment resulting from the upcoming Sprint?
+        * How will the work needed to deliver the Increment be achieved?
+    * Topic One: What can be done this Sprint?
+        * Development Team works to forecast the functionality that will be developed during the
+          Sprint
+        * Product Owner discusses the objective that the Sprint should achieve and the
+          Product Backlog items that, if completed in the Sprint, would achieve the Sprint Goal
+        * input to this meeting: 
+            * Product Backlog
+            * latest product Increment
+            * projected capacity of the Development Team
+            * past performance of the Development Team
+        * number of items selected from the Product Backlog for the Sprint is solely up to the
+          Development Team
+            * Only the Development Team can assess what it can accomplish over the upcoming Sprint
+        * During Sprint Planning the Scrum Team also crafts a Sprint Goal
+            * Sprint Goal is an objective that will be met within the Sprint through the implementation 
+            of the Product Backlog
+                * Sprint Goal provides guidance to the Development Team on why it is building the Increment
+    * Topic Two: How will the chosen work get done?
+        * Sprint Backlog = Product Backlog items selected for this Sprint + the plan for delivering
+        * Work planned for the first days of the Sprint by the Development Team is decomposed by the end 
+        of this meeting, often to units of one day or less
+* Sprint Goal
+    * is an objective set for the Sprint that can be met through the implementation of Product Backlog
+    * provides guidance to the Development Team on why it is building the Increment
+    * created during the Sprint Planning meeting
+    * selected Product Backlog items deliver one coherent function, which can be the Sprint Goal
+    * can be any other coherence that causes the Development Team to work together rather than on separate 
+    initiatives
+* Daily Scrum
+    * is a 15-minute time-boxed event for the Development Team
+    * is held every day of the Sprint
+    * at it, the Development Team plans work for the next 24 hours
+    * optimizes team collaboration and performance by inspecting the work since the last Daily Scrum
+    * forecasts upcoming Sprint work
+    * is held at the same time and place each day to reduce complexity
+    * Development Team uses the Daily Scrum to inspect progress toward the Sprint Goal and to inspect how 
+    progress is trending toward completing the work in the Sprint Backlog
+    * optimizes the probability that the Development Team will meet the Sprint Goal
+    * is set by the Development Team and can be conducted in different ways if it focuses on progress 
+    toward the Sprint Goal
+        * What did I do yesterday that helped the Development Team meet the Sprint Goal?
+        * What will I do today to help the Development Team meet the Sprint Goal?
+        * Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?
+    * Development Team or team members often meet immediately after the Daily Scrum for
+      detailed discussions, or to adapt, or replan, the rest of the Sprint’s work
+    * Scrum Master ensures that the Development Team has the meeting
+    * Development Team is responsible for conducting the Daily Scrum
+    * is an internal meeting for the Development Team
+        * If others are present, the Scrum Master ensures that they do not disrupt the meeting
+    * improve communications, eliminate other meetings, identify impediments to
+      development for removal, highlight and promote quick decision-making, and improve the
+      Development Team’s level of knowledge
+    * is a key inspect and adapt meeting
+* Sprint Review
+    * is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed
+    * the Scrum Team and stakeholders collaborate about what was done in the Sprint
+    * is an informal meeting, not a status meeting, and the presentation of the Increment is intended to 
+    elicit feedback and foster collaboratioN
+    * at most a four-hour meeting for one-month Sprints
+    * includes the following elements:
+        * Attendees include the Scrum Team and key stakeholders invited by the Product Owner
+        * The Product Owner explains what Product Backlog items have been “Done” and what has not been “Done”;
+        * The Development Team discusses what went well during the Sprint, what problems it ran into, and 
+        how those problems were solved;
+        * The Development Team demonstrates the work that it has “Done” and answers questions about the 
+        Increment;
+        * The Product Owner discusses the Product Backlog as it stands
+            * He or she projects likely target and delivery dates based on progress to date (if needed);
+        * The entire group collaborates on what to do next, so that the Sprint Review provides
+        valuable input to subsequent Sprint Planning;
+        * Review of how the marketplace or potential use of the product might have changed what is
+        the most valuable thing to do next
+        * Review of the timeline, budget, potential capabilities, and marketplace for the next
+        anticipated releases of functionality or capability of the product
+    * result of the Sprint Review is a revised Product Backlog that defines the probable Product
+      Backlog items for the next Sprint
+        * Product Backlog may also be adjusted overall to meet new opportunities
+* Sprint Retrospective
+    * is an opportunity for the Scrum Team to inspect itself and create a plan
+      for improvements to be enacted during the next Sprint
+    * occurs after the Sprint Review and prior to the next Sprint Planning
+    * at most a three-hour meeting for one-month Sprints
+    * Scrum Master ensures that the event takes place and that attendants understand its purpose
+    * Scrum Master ensures that the meeting is positive and productive
+    * The purpose of the Sprint Retrospective is to:
+        * Inspect how the last Sprint went with regards to people, relationships, process, and tools;
+        * Identify and order the major items that went well and potential improvements; and,
+        * Create a plan for implementing improvements to the way the Scrum Team does its work.
+    * By the end of the Sprint Retrospective, the Scrum Team should have identified improvements
+      that it will implement in the next Sprint
+        * Implementing these improvements in the next Sprint is the adaptation to the inspection of the 
+        Scrum Team itself
 * Scrum Artifacts
     * represent work or value to provide transparency and opportunities for inspection and adaptation
     * specifically designed to maximize transparency of key information so that everybody has the same understanding 
