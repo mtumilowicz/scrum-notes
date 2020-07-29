@@ -4,19 +4,17 @@
 * authors: Ken Schwaber, Jeff Sutherland
     * two of the 17 initial signatories of the Agile Manifesto
 * purpose of the Scrum Guide
-    *  framework for developing, delivering, and sustaining complex products
+    * framework for developing, delivering, and sustaining complex products
     
 ## introduction
 * since the early 1990s
-* is not: process, technique, definitive method
-* is rather: framework within you can employ various processes and techniques
+* Scrum is not: process, technique, definitive method
+    * is rather: framework within you can employ various processes and techniques
 * used in
-    * research and identify viable markets, technologies, and product capabilities
-    * develop products and enhancements
+    * research, technologies, product capabilities
+    * develop, sustain and renew products
         * release as frequently as many times per day
-    * develop and sustain Cloud
-    * sustain and renew products
-* almost everything we use in our daily lives
+    * almost everything we use in our daily lives
 * especially effective in iterative and incremental knowledge transfer
 * essence of Scrum is a small team of people
     * small team is highly flexible and adaptive
@@ -29,20 +27,18 @@
 * employs an iterative, incremental approach to optimize predictability and control risk
 * three pillars
     * transparency
-        * aspects of the process 
-            * visible to those responsible for the outcome
-            * defined by a common standard
-                * example - definition of "Done"
+        * aspects of the process are visible to those responsible for the outcome
+        * aspects of the process defined by a common standard
+            * example - definition of "Done"
     * inspection
+        * by skilled inspectors
         * inspect artifacts and progress toward a Sprint Goal 
         * inspection should not slow down the work
-        * by skilled inspectors
     * adaptation
-        * caused by inspection
-            * if resulting product will be unacceptable
-            * if some aspects deviate outside acceptable limits
+        * caused by inspection, when
+            * resulting product will be unacceptable
+            * some aspects deviate outside acceptable limits
         * must be made as soon as possible
-        * process or the material being processed must be adjusted
     * events for inspection and adaptation
         * Planning
         * Daily
@@ -51,7 +47,7 @@
 
 ## Scrum Team
 * self-organizing - not directed by others outside the team
-    * chooses how best to accomplish their work
+    * chooses how to accomplish their work
 * cross-functional
     * has all competencies
 * deliver products iteratively and incrementally, maximizing opportunities for feedback
@@ -63,7 +59,6 @@
     * PO may have the Development Team do it, but remains accountable
     * clearly expressing Product Backlog items
     * assign priorities to items
-    * optimizing the value of the work the Development Team performs
     * ensure that PB is visible, transparent, and clear to all
     * ensuring the Development Team understands items
     
@@ -72,34 +67,33 @@
 * self-organizing
     * knows how to turn Product Backlog into Increments
 * cross-functional
-    * all the skills to create a product Increment
+    * has all the skills to create a Increment
 * no titles for members
 * no sub-teams
 * size: 3-9 - Product Owner and Scrum Master roles are not included
     * small enough to remain nimble and large enough to complete significant work within a Sprint
     
 ### The Scrum Master
-* help everyone understand Scrum theory, practices, rules, and values
+* helps everyone understand Scrum theory, practices, rules, and values
+* facilitates Scrum events
 * servant-leader for the Scrum Team
 * helps those outside the Scrum Team understand which of their interactions with the Scrum Team 
 are helpful and which aren’t
     * helps change these interactions to maximize the value
 * service to Product Owner
-    * understand product planning in an empirical environment
-    * facilitate Scrum events as requested or needed
-    * find techniques for effective Product Backlog management
-    * understand and practice agility
-    * ensure that artifacts are understood by everyone on the Scrum Team
+    * understands product planning in an empirical environment
+    * finds techniques for effective Product Backlog management
+    * understands and practice agility
+    * ensures that artifacts are understood by everyone on the Scrum Team
 * service to the Development Team
     * coaching in self-organization and cross-functionality
-    * remove impediments to the Development Team’s progress
-    * facilitates Scrum events
+    * removes impediments to the Development Team’s progress
 * service to the Organization
     * coaching in Scrum adoption
-    * plan Scrum implementations within the organization
+    * plans Scrum implementations within the organization
     * helps stakeholders understand and enact Scrum product management
-    * Causing change that increases the productivity of the Scrum Team
-    * cooperate with other Scrum Masters to increase the effectiveness of the application of Scrum
+    * causing change that increases the productivity of the Scrum Team
+    * cooperates with other Scrum Masters to increase the effectiveness of the application of Scrum
     
 ## Scrum Events
 
