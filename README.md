@@ -80,6 +80,7 @@
 * helps those outside the Scrum Team understand which of their interactions with the Scrum Team 
 are helpful and which aren’t
     * helps change these interactions to maximize the value
+* works with the Scrum Team and the organization to increase the transparency of the artifacts
 * service to Product Owner
     * understands product planning in an empirical environment
     * finds techniques for effective Product Backlog management
@@ -123,7 +124,14 @@ are helpful and which aren’t
         * for example - if the Sprint Goal becomes obsolete
     * any completed and "Done" Product Backlog items are reviewed
         * incomplete Items are re-estimated and put back on the Product Backlog
-        
+* Increment
+    * sum of all items completed during a Sprint + value of the increments of all previous Sprints
+    * at the end of a Sprint, the new Increment must be "Done"
+        * in useable condition
+            * regardless of whether the Product Owner decides to release it
+        * meets the definition of "Done"
+    * Increment is useable, so a Product Owner may choose to immediately release it
+           
 ### Planning
 * time-boxed: <= eight hours for a one-month Sprint
 * by Scrum Team
@@ -213,25 +221,25 @@ are helpful and which aren’t
 * designed to maximize transparency of key information
 
 ### Product Backlog
-* is used to describe the upcoming work on the product
+* Product Owner responsibility
+    * including content, availability, and ordering
+    * items can be updated at any time by the Product Owner or at the Product Owner’s discretion
+* used to describe the upcoming work on the product
 * ordered list of everything that is known to be needed in the product
     * lists all features, functions, requirements, enhancements, and fixes
     * items have the attributes of a description, order, estimate, and value
         * often include test descriptions that will prove its completeness when "Done"
     * higher ordered Product Backlog items are usually clearer
 * single source of requirements for any changes to be made to the product
-* Product Owner is responsible for the Product Backlog
-    * including its content, availability, and ordering
 * is never complete
 * constantly changes
 * refinement
     * items are reviewed and revised
         * act of adding detail, estimates, and order to items
-    * Product Owner and the Development Team collaborate on the details of Product Backlog item
+    * Scrum Team collaborates on the details of Product Backlog item
     * Scrum Team decides how and when refinement is done
     * usually consumes no more than 10% of the capacity of the Development Team
-    * Product Backlog items can be updated at any time by the Product Owner or at the Product Owner’s discretion
-* items that can be "Done" within one Sprint are deemed "Ready" for selection in a Sprint Planning
+* items that can be "Done" within one Sprint are "Ready" for selection in a Sprint Planning
 * Development Team is responsible for all estimates
 * Monitoring Progress Toward Goals
     * Product Owner tracks this total work remaining at least every Sprint Review
@@ -242,26 +250,12 @@ are helpful and which aren’t
     * plus a plan for delivering the product Increment and realizing the Sprint Goal
     * makes visible all the work necessary to meet the Sprint Goal
 * includes at least one high priority process improvement from Retrospective
-* Only the Development Team can change its Sprint Backlog during a Sprint
-    * new work is required - adds it to the Sprint Backlog
-    * work is completed - remaining work is updated
+* only the Development Team can change it during a Sprint
 * Monitoring Sprint Progress
-    * tracking the remaining work at least for every Daily Scrum to project the likelihood of 
-    achieving the Sprint Goal
-* Increment
-    * sum of all items completed during a Sprint + value of the increments of all previous Sprints
-    * at the end of a Sprint, the new Increment must be “Done”
-        * in useable condition
-            * regardless of whether the Product Owner decides to release it
-        * meet the definition of "Done"
-    * Increment is useable, so a Product Owner may choose to immediately release it
+    * at least every Daily Scrum to project the likelihood of achieving the Sprint Goal
 
-### Artifact Transparency
-* Scrum relies on transparency
-* Scrum Master’s job is to work with the Scrum Team and the organization to increase the
-  transparency of the artifacts
-* Definition of "Done"
-    * Development Team must define a definition of "Done"
-        * if not a convention of the development organization
-    * everyone must understand what "Done" means
-    * definitions of “Done” will expand to include more stringent criteria for higher quality
+### Definition of "Done"
+* Development Team must define a definition of "Done"
+    * if not a convention of the development organization
+* everyone must understand what "Done" means
+* definitions of "Done" will expand to include more stringent criteria for higher quality
