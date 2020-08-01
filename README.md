@@ -58,8 +58,8 @@
 * sole person responsible for managing the Product Backlog
     * PO may have the Development Team do it, but remains accountable
     * clearly expressing Product Backlog items
-    * assign priorities to items
-    * ensure that PB is visible, transparent, and clear to all
+    * assigning priorities to items
+    * ensuring that PB is visible, transparent, and clear to all
     * ensuring the Development Team understands items
     
 ### The Development Team
@@ -67,7 +67,7 @@
 * self-organizing
     * knows how to turn Product Backlog into Increments
 * cross-functional
-    * has all the skills to create a Increment
+    * has all the skills to create an Increment
 * no titles for members
 * no sub-teams
 * size: 3-9 - Product Owner and Scrum Master roles are not included
