@@ -1,6 +1,7 @@
 * references
     * https://www.scrumguides.org/scrum-guide.html
     * https://www.classmarker.com/online-test/start/?quiz=vek54a6ec10658ef (multiple times)
+    * https://www.classmarker.com/online-test/start/?quiz=k6c5408cb891729e (multiple times)
 
 # scrum-notes
 * authors: Ken Schwaber, Jeff Sutherland
@@ -12,6 +13,8 @@
 * since the early 1990s
 * Scrum is not: process, technique, definitive method
     * is rather: framework within you can employ various processes and techniques
+    * framework for dealing with complexity
+    * framework for optimizing decision making based on the knowledge and experience of the entire team
 * used in
     * research, technologies, product capabilities
     * develop, sustain and renew products
@@ -27,6 +30,9 @@
 ## Scrum Theory
 * founded on empiricism
 * employs an iterative, incremental approach to optimize predictability and control risk
+* Scrum is meant to be implemented as prescribed in the Scrum Guide
+    * for example, the five events in the Scrum Guide are mandatory
+        * each event has a specific purpose
 * three pillars
     * transparency
         * aspects of the process are visible to those responsible for the outcome
@@ -46,25 +52,36 @@
         * Daily
         * Review
         * Retrospective
-
+* role of Management in Scrum
+    * supports the Product Owner with insights and information into high value product 
+    and system capabilities
+    * supports the Scrum Master to cause organizational change that fosters empiricism, 
+    self-organization, bottom-up intelligence, and intelligent release of software
+    
 ## Scrum Team
+* consists of
+    * Scrum Master (manages the process)
+    * Product Owner (decides what to do)
+    * Development Team (does the work)
 * self-organizing - not directed by others outside the team
     * chooses how to accomplish their work
 * cross-functional
     * has all competencies
 * deliver products iteratively and incrementally, maximizing opportunities for feedback
 
-### The Product Owner
+### Product Owner
 * is one person
-* responsible for maximizing the value of the product
+* responsible for maximizing the value of the product and the work of the Development Team
 * sole person responsible for managing the Product Backlog
     * PO may have the Development Team do it, but remains accountable
     * clearly expressing Product Backlog items
     * assigning priorities to items
     * ensuring that PB is visible, transparent, and clear to all
     * ensuring the Development Team understands items
+* knows the most about the progress toward a business objective or a release, and be able to 
+explain the alternatives most clearly
     
-### The Development Team
+### Development Team
 * only Development Team create the Increment
 * self-organizing
     * knows how to turn Product Backlog into Increments
@@ -74,8 +91,8 @@
 * no sub-teams
 * size: 3-9 - Product Owner and Scrum Master roles are not included
     * small enough to remain nimble and large enough to complete significant work within a Sprint
-    
-### The Scrum Master
+
+### Scrum Master
 * helps everyone understand Scrum theory, practices, rules, and values
 * facilitates Scrum events
 * servant-leader for the Scrum Team
@@ -91,6 +108,7 @@ are helpful and which aren’t
 * service to the Development Team
     * coaching in self-organization and cross-functionality
     * removes impediments to the Development Team’s progress
+    * teach to keep the Daily Scrum within the 15 minute time-box
 * service to the Organization
     * coaching in Scrum adoption
     * plans Scrum implementations within the organization
@@ -99,12 +117,16 @@ are helpful and which aren’t
     * cooperates with other Scrum Masters to increase the effectiveness of the application of Scrum
     
 ## Scrum Events
+* every event in Scrum, besides the Sprint which is a container for the other events, is an opportunity 
+to Inspect and Adapt
 
-### The Sprint
+### Sprint
 * time-box: <= month
     * may be considered a project with no more than a one-month horizon
     * when too long complexity may rise, and risk may increase
     * limits risk to one calendar month of cost
+    * short enough to keep the business risk acceptable to the Product Owner
+    * short enough to be able to synchronize the development work with other business events
 * new Sprint starts immediately after the conclusion of the previous Sprint
 * once a Sprint begins, its duration cannot be changed
 * used to accomplish something
@@ -132,7 +154,11 @@ are helpful and which aren’t
         * in useable condition
             * regardless of whether the Product Owner decides to release it
         * meets the definition of "Done"
+        * is releasable
     * Increment is useable, so a Product Owner may choose to immediately release it
+* Development Team do during the first Sprint
+    * develops and delivers at least one piece of functionality
+    * delivers an increment of potentially releasable software
            
 ### Planning
 * time-boxed: <= eight hours for a one-month Sprint
@@ -161,6 +187,7 @@ are helpful and which aren’t
 
 ### Daily Scrum
 * time-boxed: <= 15 min
+    * it does not change with the length of a Sprint
 * is a key inspect and adapt meeting
 * internal meeting for the Development Team
     * Development Team is responsible for conducting the Daily Scrum
@@ -189,6 +216,7 @@ are helpful and which aren’t
 ### Review
 * time-box: <= at most a four-hour meeting for one-month Sprints
 * attendees: Scrum Team + key stakeholders invited by the Product Owner
+* Scrum Team and stakeholders inspect the outcome of a Sprint and figure out what to do next
 * held at the end of the Sprint
     * inspect: Increment
     * adapt: Product Backlog (if needed)
@@ -212,6 +240,8 @@ are helpful and which aren’t
 
 ### Retrospective
 * time-boxed: <= three-hour meeting for one-month Sprints
+* attendees: Scrum Team
+    * Product Owner must be present
 * occurs after the Review and prior to the next Planning
 * inspect how the last Sprint went
     * regards to people, relationships, process, and tools
@@ -226,6 +256,7 @@ are helpful and which aren’t
 * Product Owner responsibility
     * including content, availability, and ordering
     * items can be updated at any time by the Product Owner or at the Product Owner’s discretion
+* product have one Product Backlog, regardless of how many teams are used
 * used to describe the upcoming work on the product
 * ordered list of everything that is known to be needed in the product
     * lists all features, functions, requirements, enhancements, and fixes
@@ -236,6 +267,7 @@ are helpful and which aren’t
 * is never complete
 * constantly changes
 * refinement
+    * design, decomposition, analysis
     * items are reviewed and revised
         * act of adding detail, estimates, and order to items
     * Scrum Team collaborates on the details of Product Backlog item
@@ -252,6 +284,7 @@ are helpful and which aren’t
     * plus a plan for delivering the product Increment and realizing the Sprint Goal
     * makes visible all the work necessary to meet the Sprint Goal
 * includes at least one high priority process improvement from Retrospective
+    * remark: it has to be added to Spring Backlog not Product Backlog
 * only the Development Team can change it during a Sprint
 * Monitoring Sprint Progress
     * at least every Daily Scrum to project the likelihood of achieving the Sprint Goal
@@ -261,3 +294,5 @@ are helpful and which aren’t
     * if not a convention of the development organization
 * everyone must understand what "Done" means
 * definitions of "Done" will expand to include more stringent criteria for higher quality
+* when many Development Teams are working on a single product all Development Teams 
+must have a definition of "Done" that makes their combined work potentially releasable
