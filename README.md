@@ -1,4 +1,6 @@
-* reference: https://www.scrumguides.org/scrum-guide.html
+* references
+    * https://www.scrumguides.org/scrum-guide.html
+    * https://www.classmarker.com/online-test/start/?quiz=vek54a6ec10658ef (multiple times)
 
 # scrum-notes
 * authors: Ken Schwaber, Jeff Sutherland
