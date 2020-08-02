@@ -2,6 +2,9 @@
     * https://www.scrumguides.org/scrum-guide.html
     * https://www.classmarker.com/online-test/start/?quiz=vek54a6ec10658ef (multiple times)
     * https://www.classmarker.com/online-test/start/?quiz=k6c5408cb891729e (multiple times)
+    * https://www.classmarker.com/online-test/start/?quiz=grx55b93a4d40895 (multiple times)
+    * https://mlapshin.com/index.php/scrum-quizzes/sm-learning-mode/
+    * https://www.exam4training.com/how-should-a-development-team-deal-with-non-functional-requirements-3/
 
 # scrum-notes
 * authors: Ken Schwaber, Jeff Sutherland
@@ -59,10 +62,13 @@
     self-organization, bottom-up intelligence, and intelligent release of software
     
 ## Scrum Team
+* designed to optimize flexibility, creativity, and productivity
 * consists of
     * Scrum Master (manages the process)
     * Product Owner (decides what to do)
     * Development Team (does the work)
+    * Product Owner or the Scrum Master can do development work
+        * it is not the best practice because it could create a conflict of interest
 * self-organizing - not directed by others outside the team
     * chooses how to accomplish their work
 * cross-functional
@@ -108,13 +114,17 @@ are helpful and which aren’t
 * service to the Development Team
     * coaching in self-organization and cross-functionality
     * removes impediments to the Development Team’s progress
+    * helps the Development Team to create high-value products
     * teach to keep the Daily Scrum within the 15 minute time-box
+        * ensures that the Development Team has the meeting
+        * ensures that the others do not disrupt the meeting
 * service to the Organization
     * coaching in Scrum adoption
     * plans Scrum implementations within the organization
     * helps stakeholders understand and enact Scrum product management
     * causing change that increases the productivity of the Scrum Team
     * cooperates with other Scrum Masters to increase the effectiveness of the application of Scrum
+    * is responsible for promoting and supporting Scrum as defined in the Scrum Guide
     
 ## Scrum Events
 * every event in Scrum, besides the Sprint which is a container for the other events, is an opportunity 
@@ -148,21 +158,17 @@ to Inspect and Adapt
         * for example - if the Sprint Goal becomes obsolete
     * any completed and "Done" Product Backlog items are reviewed
         * incomplete Items are re-estimated and put back on the Product Backlog
-* Increment
-    * sum of all items completed during a Sprint + value of the increments of all previous Sprints
-    * at the end of a Sprint, the new Increment must be "Done"
-        * in useable condition
-            * regardless of whether the Product Owner decides to release it
-        * meets the definition of "Done"
-        * is releasable
-    * Increment is useable, so a Product Owner may choose to immediately release it
+* at the end of a Sprint, the new Increment must be "Done"
+    * in useable condition
+        * regardless of whether the Product Owner decides to release it
 * Development Team do during the first Sprint
     * develops and delivers at least one piece of functionality
     * delivers an increment of potentially releasable software
            
 ### Planning
 * time-boxed: <= eight hours for a one-month Sprint
-* by Scrum Team
+* attendees: Scrum Team
+    * Development Team may invite other people to attend to provide technical or domain advice
 * input to this meeting
     * Product Backlog
     * latest product Increment
@@ -178,6 +184,9 @@ to Inspect and Adapt
     * Sprint Backlog = Product Backlog items selected for this Sprint + the plan for delivering
     * by the end of planning: Development Team decomposes work planned for the first days
         * often to units of one day or less
+* by the end of the Sprint Planning, the Development Team should be able to explain to the
+  Product Owner and Scrum Master how it intends to work as a self-organizing team to
+  accomplish the Sprint Goal and create the anticipated Increment
 
 ### Sprint Goal
 * created during the Sprint Planning meeting
@@ -251,6 +260,7 @@ to Inspect and Adapt
 
 ## Scrum Artifacts
 * designed to maximize transparency of key information
+* are Product Backlog, Sprint Backlog and Increment
 
 ### Product Backlog
 * Product Owner responsibility
@@ -289,6 +299,11 @@ to Inspect and Adapt
 * Monitoring Sprint Progress
     * at least every Daily Scrum to project the likelihood of achieving the Sprint Goal
 
+### Increment
+* sum of all items completed during a Sprint + value of the increments of all previous Sprints
+* meets the definition of "Done"
+* Increment is useable, so a Product Owner may choose to immediately release it
+    
 ### Definition of "Done"
 * Development Team must define a definition of "Done"
     * if not a convention of the development organization
@@ -296,3 +311,6 @@ to Inspect and Adapt
 * definitions of "Done" will expand to include more stringent criteria for higher quality
 * when many Development Teams are working on a single product all Development Teams 
 must have a definition of "Done" that makes their combined work potentially releasable
+* use to assess when work is complete on the product Increment
+* guides the Development Team in knowing how many Product Backlog items it can select during a Sprint Planning
+* ensures artifact transparency
