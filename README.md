@@ -5,6 +5,8 @@
     * https://www.classmarker.com/online-test/start/?quiz=grx55b93a4d40895 (multiple times)
     * https://mlapshin.com/index.php/scrum-quizzes/sm-learning-mode/
     * https://www.exam4training.com/how-should-a-development-team-deal-with-non-functional-requirements-3/
+    * https://chercher.tech/agile-certification/scrum-master-certification-prep-questions-set-1
+        * set 1 - 16
 
 # scrum-notes
 * authors: Ken Schwaber, Jeff Sutherland
