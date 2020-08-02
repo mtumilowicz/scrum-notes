@@ -19,7 +19,7 @@
 * Scrum is not: process, technique, definitive method
     * is rather: framework within you can employ various processes and techniques
     * framework for dealing with complexity
-    * framework for optimizing decision making based on the knowledge and experience of the entire team
+    * framework for optimizing decision making (based on the knowledge and experience of the entire team)
 * used in
     * research, technologies, product capabilities
     * develop, sustain and renew products
@@ -36,8 +36,7 @@
 * founded on empiricism
 * employs an iterative, incremental approach to optimize predictability and control risk
 * Scrum is meant to be implemented as prescribed in the Scrum Guide
-    * for example, the five events in the Scrum Guide are mandatory
-        * each event has a specific purpose
+    * five events in the Scrum Guide are mandatory - each has a specific purpose
 * three pillars
     * transparency
         * aspects of the process are visible to those responsible for the outcome
@@ -108,11 +107,11 @@ explain the alternatives most clearly
 are helpful and which aren’t
     * helps change these interactions to maximize the value
 * works with the Scrum Team and the organization to increase the transparency of the artifacts
+    * ensures that artifacts are understood by everyone on the Scrum Team
 * service to Product Owner
     * understands product planning in an empirical environment
     * finds techniques for effective Product Backlog management
     * understands and practice agility
-    * ensures that artifacts are understood by everyone on the Scrum Team
 * service to the Development Team
     * coaching in self-organization and cross-functionality
     * removes impediments to the Development Team’s progress
@@ -163,7 +162,7 @@ to Inspect and Adapt
 * at the end of a Sprint, the new Increment must be "Done"
     * in useable condition
         * regardless of whether the Product Owner decides to release it
-* Development Team do during the first Sprint
+* Development Team during the first Sprint
     * develops and delivers at least one piece of functionality
     * delivers an increment of potentially releasable software
            
@@ -225,7 +224,7 @@ to Inspect and Adapt
     * improves the Development Team’s level of knowledge
 
 ### Review
-* time-box: <= at most a four-hour meeting for one-month Sprints
+* time-box: <= 4h for one-month Sprints
 * attendees: Scrum Team + key stakeholders invited by the Product Owner
 * Scrum Team and stakeholders inspect the outcome of a Sprint and figure out what to do next
 * held at the end of the Sprint
@@ -250,7 +249,7 @@ to Inspect and Adapt
         * answers questions about the Increment
 
 ### Retrospective
-* time-boxed: <= three-hour meeting for one-month Sprints
+* time-boxed: <= 3h for one-month Sprints
 * attendees: Scrum Team
     * Product Owner must be present
 * occurs after the Review and prior to the next Planning
